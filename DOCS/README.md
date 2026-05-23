@@ -26,10 +26,10 @@ This board consists of 14 LEDs around the perimeter which I kept for a glowing e
 | Resistor Kit (through-hole)   | Current-limiting resistors   | 5   | $0.05      | $0.25       | https://www.aliexpress.com/item/1005003271232838.html                      |
 | GL5528 LDR                    | Light sensor (photoresistor) | 1   | $0.25      | $0.25       | https://www.aliexpress.com/item/1005002388823502.html                      |
 | 100uF Electrolytic Capacitor  | Power smoothing capacitor    | 1   | $0.15      | $0.15       | https://www.aliexpress.com/item/1005003291510890.html                      |
-| 2N3904 NPN Transistor         | LED switching transistor     | 1   | $0.10      | $0.10       | https://www.digikey.com/en/products/detail/onsemi/2N3904BU/1413            |
-| NE555 Timer IC                | LED driver IC                | 1   | $0.35      | $0.35       | https://www.digikey.com/en/products/detail/texas-instruments/NE555P/277594 |
+| 2N3904 NPN Transistor         | LED switching transistor     | 1   | $0.10      | $0.10       | https://www.aliexpress.com/item/1005001621882015.html                      |
+| NE555 Timer IC                | LED driver IC                | 1   | $0.35      | $0.35       | https://www.aliexpress.com/item/1005001636274084.html                      |
 | CR2032 Coin Cell Holder       | PCB-mount battery holder     | 1   | $0.89      | $0.89       | https://www.adafruit.com/product/4856                                      |
-| CR2032 Coin Cell Battery      | 3V power source              | 1   | $0.99      | $0.99       | https://www.amazon.com/dp/B071D2XTW4                                       |
+| CR2032 Coin Cell Battery      | 3V power source              | 1   | $0.99      | $0.99       | https://www.aliexpress.com/item/1005006070685553.html                      |
 | **TOTAL**                     |                              |     |            | **$4.38**   |                                                                            |
 
 > Prices are estimates.
