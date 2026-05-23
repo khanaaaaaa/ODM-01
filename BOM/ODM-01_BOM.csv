@@ -1,0 +1,12 @@
+Item,Description,Quantity,Unit Price ($),Total Price ($),URL
+5mm LED (Red),Perimeter LEDs,14,0.10,1.40,https://www.aliexpress.com/item/1005006225914769.html
+Resistor Kit (through-hole),Current-limiting resistors,5,0.05,0.25,https://www.aliexpress.com/item/1005003271232838.html
+GL5528 LDR,Light sensor (photoresistor),1,0.25,0.25,https://www.aliexpress.com/item/1005002388823502.html
+100uF Electrolytic Capacitor,Power smoothing capacitor,1,0.15,0.15,https://www.aliexpress.com/item/1005003291510890.html
+2N3904 NPN Transistor,LED switching transistor,1,0.10,0.10,https://www.digikey.com/en/products/detail/onsemi/2N3904BU/1413
+NE555 Timer IC,LED driver IC,1,0.35,0.35,https://www.digikey.com/en/products/detail/texas-instruments/NE555P/277594
+CR2032 Coin Cell Holder,PCB-mount battery holder,1,0.89,0.89,https://www.adafruit.com/product/4856
+CR2032 Coin Cell Battery,3V power source,1,0.99,0.99,https://www.amazon.com/dp/B071D2XTW4
+Custom PCB (Wings of Freedom),ODM-01 PCB - JLCPCB qty 5,1,2.00,2.00,https://jlcpcb.com
+
+TOTAL,,,,6.38,
