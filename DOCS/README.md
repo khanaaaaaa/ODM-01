@@ -1,6 +1,7 @@
 # ODM-01
 
 ## Zine
+<img width="1410" height="2000" alt="WINGS OF FREEDOM (4)" src="https://github.com/user-attachments/assets/eb88adb3-a542-4bfc-8e08-22f82fc1dd0a" />
 
 ## What It Is & Why I Made It
 
